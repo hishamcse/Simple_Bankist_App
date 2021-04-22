@@ -1,0 +1,19 @@
+{
+  "name": "personal_bankist-app",
+  "version": "1.0.0",
+  "description": "Simple Bankist",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hishamcse/Simple_Bankist_App.git"
+  },
+  "author": "Syed Jarullah Hisham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hishamcse/Simple_Bankist_App/issues"
+  },
+  "homepage": "https://github.com/hishamcse/Simple_Bankist_App#readme"
+}
