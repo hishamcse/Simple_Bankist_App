@@ -10,6 +10,7 @@ For Login: <br/>
    user: sm            pin: 4444   <br/>
 </pre>
 
-Note: This web app is a very simple one as it was made just for pratice. So, functionalities are not same as real banks.
+Note: 1. This web app is a very simple one as it was made just for pratice. So, functionalities are not same as real banks.<br />
+      2. There are 4 currencies for 4 countries available here. So, transfer operation does the currency conversion too.
      
    
